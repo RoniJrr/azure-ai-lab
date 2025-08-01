@@ -1,0 +1,19 @@
+{
+    "documents": [
+        {
+            "id": "1",
+            "entities": [
+                {
+                    "text": "Azure",
+                    "category": "Organization",
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Speech Studio",
+                    "category": "Product",
+                    "confidenceScore": 0.95
+                }
+            ]
+        }
+    ]
+}

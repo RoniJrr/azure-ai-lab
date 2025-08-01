@@ -1,0 +1,24 @@
+{
+    "documents": [
+        {
+            "id": "1",
+            "sentiment": "positive",
+            "confidenceScores": {
+                "positive": 0.98,
+                "neutral": 0.02,
+                "negative": 0.0
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.98,
+                        "neutral": 0.02,
+                        "negative": 0.0
+                    },
+                    "text": "Olá, estou testando o Speech Studio Azure."
+                }
+            ]
+        }
+    ]
+}

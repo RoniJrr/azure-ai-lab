@@ -1,0 +1,56 @@
+[
+    {
+        "Id": "36d4807a5b0a470f8b897f93561be64a",
+        "RecognitionStatus": "Success",
+        "Offset": 10400000,
+        "Duration": 45200000,
+        "Channel": 0,
+        "DisplayText": "Olá, estou testando o speak Studio Azure.",
+        "NBest": [
+            {
+                "Confidence": 0.55996096,
+                "Lexical": "olá estou testando o speak studio azure",
+                "ITN": "olá estou testando o speak studio azure",
+                "MaskedITN": "olá estou testando o speak studio azure",
+                "Display": "Olá, estou testando o speak Studio Azure.",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 10400000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 20400000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "testando",
+                        "Offset": 24800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 30000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "speak",
+                        "Offset": 33200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "studio",
+                        "Offset": 36800000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "azure",
+                        "Offset": 51200000,
+                        "Duration": 4400000
+                    }
+                ]
+            }
+        ]
+    }
+]
